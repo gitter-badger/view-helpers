@@ -1,5 +1,6 @@
 Pebble View Helpers
 ===================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mypebble/view-helpers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project is a collection of helper functions and classes that we use
 while developing our Django projects.
